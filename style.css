@@ -1,3 +1,8 @@
 * {
     box-sizing: border-box;
 }
+
+body,
+html {
+    background: linear-gradient(to right, royalblue, skyblue) !important;
+}
